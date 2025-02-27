@@ -9,3 +9,6 @@ Ropositório para armazenar resumos sobre o Git e GitHub do recurso de versionam
 
 | Aulas | Resumos |
 |------|----------|
+
+## Minhas redes
+- [Fabricio Januário](www.facebook.com)
